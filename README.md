@@ -15,7 +15,7 @@ Semesters: Fall 2019 and Spring 2020
     
     2. GraphClassification_CNN.ipynb: initiates the design and training of a TensorFlow model. 
     
-**Documentation**: class-related files such as the report and presentations. 
+**Documentation**: class-related files such as the project report and presentations. 
 
-    1. JoshebDayrit_ProjectReport.pdf: a draft of the final paper.  
+    1. JoshebDayrit_ProjectReport.pdf: contains the current draft of the final paper.  
 
