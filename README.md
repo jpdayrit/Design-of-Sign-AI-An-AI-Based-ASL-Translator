@@ -5,3 +5,7 @@ An undergraduate project developed in part by an engineering major at the Univer
 Advisor: Dr. Lei Zhang
 
 Semesters: Fall 2019 and Spring 2020
+
+## Design of Sign AI: An AI-Based ASL Translator
+
+
