@@ -6,6 +6,11 @@ Advisor: Dr. Lei Zhang
 
 Semesters: Fall 2019 and Spring 2020
 
-## Design of Sign AI: An AI-Based ASL Translator
 
+# Overview of Files
+
+Scripts: contains source code pertaining to the project.
+
+    PandasDataGen: generates pseudo-data using a Pandas dataframe and Matplotlib. 
+    GraphClassification_CNN: initiates the design and training of a TensorFlow model. 
 
