@@ -19,5 +19,7 @@ Repository Created by **Josheb P. Dayrit**
     
 **Documentation**: class-related files such as the project report and presentations. 
 
-    1. JoshebDayrit_ProjectReport.pdf: contains the current draft of the final paper.  
+    1. JoshebDayrit_ProjectReport.pdf/.docx: contains the current draft of the final paper.  
+    
+    2. Presentations folder: contains all presentations. 
 
