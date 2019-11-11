@@ -22,4 +22,6 @@ Repository Created by **Josheb P. Dayrit**
     1. JoshebDayrit_ProjectReport.pdf/.docx: contains the current draft of the final paper.  
     
     2. Presentations folder: contains all presentations. 
+    
+    3. SignAI_Poster_JoshebDayrit_Ver.02.pdf: contains the current draft of the project poster. 
 
